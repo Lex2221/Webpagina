@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Mijn Website (git training)
+een eerste poging om een gestructureerde webpagina te maken.
+
 
 You can use the [editor on GitHub](https://github.com/Lex2221/Webpagina/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
